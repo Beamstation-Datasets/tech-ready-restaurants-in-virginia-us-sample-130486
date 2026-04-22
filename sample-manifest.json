@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e2121cc5-41ce-4ac5-a66e-cb005f48d3e0",
+  "export_job_id": "7563569d-988b-453b-ad3d-74556aead365",
   "id_short": 130486,
-  "published_at": "2026-04-19T07:45:02Z",
+  "published_at": "2026-04-22T19:15:34Z",
   "repo_name": "tech-ready-restaurants-in-virginia-us-sample-130486",
   "sample_asset_name": "beamstation_130486_restaurants-us-va_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/130486/beamstation_130486_restaurants-us-va_SAMPLE_DIST.csv",
-  "sample_records": 4,
-  "sample_sha256": "63c70dd0f89d03d105b9e73dc1f8f3bb306a3dcfc39d880af5b477d3669e0f3b",
-  "sample_size_bytes": 31142,
-  "total_records": 41
+  "sample_records": 1,
+  "sample_sha256": "4193cc7bbd86c2d8e2195041473e5fcecc9513f84867dd2f43f00750143b2b6c",
+  "sample_size_bytes": 20036,
+  "total_records": 18
 }
