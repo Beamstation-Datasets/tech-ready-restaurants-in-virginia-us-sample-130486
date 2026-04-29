@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Virginia, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 23 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `130486` |
 | Location | Virginia |
 | Category | Restaurants |
-| Full dataset size | 18 records |
-| Free sample size | 1 records (5.56%) |
-| Last export | 2026-04-22T18:56:37.124611+00:00 |
+| Full dataset size | 233 records |
+| Free sample size | 23 records (9.87%) |
+| Last export | 2026-04-29T18:08:25.651232+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-virginia-us-sample-130486/releases/download/sample-latest/beamstation_130486_restaurants-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
